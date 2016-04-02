@@ -8,16 +8,16 @@
        
        Procedure Division.
        Display-Routine.
-       Display erase.
-      	Display "NUM1 = " line 3 col 5.
-      	Display num1.
-      	Display "NUM2 = " line 4 col 5.
-      	Display num2.
-      	Display "NUM1 = ".
-      	Display num1.
-      	Display "NUM2 = " with no advancing.
-      	Display num2.
-      	Display "NUM2 = " line 10 col 5.
-      	Display num2.
-      	Stop Run.
-      
+              Display erase.
+             	Display "NUM1 = " line 3 col 5.
+             	Display num1.
+             	Display "NUM2 = " line 4 col 5.
+             	Display num2.
+             	Display "NUM1 = ".
+             	Display num1.
+             	Display "NUM2 = " with no advancing.
+             	Display num2.
+             	Display "NUM2 = " line 10 col 5.
+             	Display num2.
+             	Stop Run.
+             
