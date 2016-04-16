@@ -8,8 +8,8 @@
 
  Procedure Division.
  Display-Routine.
-         Display erase.
-    Display "NUM1 = " line 3 col 5.
+    Display erase.
+    Display "NUM1 = " line 1 col 3.
     Display num1.
     Display "NUM2 = " line 4 col 5.
     Display num2.
